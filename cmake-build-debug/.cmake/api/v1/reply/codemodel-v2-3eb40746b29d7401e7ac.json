@@ -1,0 +1,129 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"childIndexes" : 
+					[
+						1
+					],
+					"jsonFile" : "directory-.-Debug-f5ebdc15457944623624.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.28"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0
+					]
+				},
+				{
+					"build" : "test",
+					"jsonFile" : "directory-test-Debug-451c0598f41488bb20b9.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.10"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 1,
+					"source" : "test",
+					"targetIndexes" : 
+					[
+						1,
+						2,
+						3,
+						4
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"childIndexes" : 
+					[
+						1
+					],
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "t3",
+					"targetIndexes" : 
+					[
+						0
+					]
+				},
+				{
+					"directoryIndexes" : 
+					[
+						1
+					],
+					"name" : "test_neural_network_recognition",
+					"parentIndex" : 0,
+					"targetIndexes" : 
+					[
+						1,
+						2,
+						3,
+						4
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "t3::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-t3-Debug-b3947a8a5ad564732782.json",
+					"name" : "t3",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 1,
+					"id" : "test_color_recognition::@36f028580bb02cc8272a",
+					"jsonFile" : "target-test_color_recognition-Debug-35d97b7fe244cf544564.json",
+					"name" : "test_color_recognition",
+					"projectIndex" : 1
+				},
+				{
+					"directoryIndex" : 1,
+					"id" : "test_neural_network_recognition::@36f028580bb02cc8272a",
+					"jsonFile" : "target-test_neural_network_recognition-Debug-2706ef265d49e1f20f43.json",
+					"name" : "test_neural_network_recognition",
+					"projectIndex" : 1
+				},
+				{
+					"directoryIndex" : 1,
+					"id" : "test_pnp_distance::@36f028580bb02cc8272a",
+					"jsonFile" : "target-test_pnp_distance-Debug-21a52829e7009cda8b58.json",
+					"name" : "test_pnp_distance",
+					"projectIndex" : 1
+				},
+				{
+					"directoryIndex" : 1,
+					"id" : "test_serial::@36f028580bb02cc8272a",
+					"jsonFile" : "target-test_serial-Debug-8b5d356b217604ad3ccf.json",
+					"name" : "test_serial",
+					"projectIndex" : 1
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/home/shur/CLionProjects/t3/cmake-build-debug",
+		"source" : "/home/shur/CLionProjects/t3"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 7
+	}
+}

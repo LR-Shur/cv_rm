@@ -1,0 +1,92 @@
+[
+{
+  "directory": "/home/shur/CLionProjects/t3/build",
+  "command": "/usr/bin/g++-12 -I/home/shur/CLionProjects/t3/include -I/usr/include/openvino -I/home/shur/c++_libs/linuxSDK_V2.1.0.37/include -isystem /usr/local/include/opencv4 -g -o CMakeFiles/t3.dir/src/main.cpp.o -c /home/shur/CLionProjects/t3/src/main.cpp",
+  "file": "/home/shur/CLionProjects/t3/src/main.cpp",
+  "output": "CMakeFiles/t3.dir/src/main.cpp.o"
+},
+{
+  "directory": "/home/shur/CLionProjects/t3/build",
+  "command": "/usr/bin/g++-12 -I/home/shur/CLionProjects/t3/include -I/usr/include/openvino -I/home/shur/c++_libs/linuxSDK_V2.1.0.37/include -isystem /usr/local/include/opencv4 -g -o CMakeFiles/t3.dir/src/libs/color_recognition.cpp.o -c /home/shur/CLionProjects/t3/src/libs/color_recognition.cpp",
+  "file": "/home/shur/CLionProjects/t3/src/libs/color_recognition.cpp",
+  "output": "CMakeFiles/t3.dir/src/libs/color_recognition.cpp.o"
+},
+{
+  "directory": "/home/shur/CLionProjects/t3/build",
+  "command": "/usr/bin/g++-12 -I/home/shur/CLionProjects/t3/include -I/usr/include/openvino -I/home/shur/c++_libs/linuxSDK_V2.1.0.37/include -isystem /usr/local/include/opencv4 -g -o CMakeFiles/t3.dir/src/libs/neural_recogniton.cpp.o -c /home/shur/CLionProjects/t3/src/libs/neural_recogniton.cpp",
+  "file": "/home/shur/CLionProjects/t3/src/libs/neural_recogniton.cpp",
+  "output": "CMakeFiles/t3.dir/src/libs/neural_recogniton.cpp.o"
+},
+{
+  "directory": "/home/shur/CLionProjects/t3/build",
+  "command": "/usr/bin/g++-12 -I/home/shur/CLionProjects/t3/include -I/usr/include/openvino -I/home/shur/c++_libs/linuxSDK_V2.1.0.37/include -isystem /usr/local/include/opencv4 -g -o CMakeFiles/t3.dir/src/libs/ov_yolov8.cpp.o -c /home/shur/CLionProjects/t3/src/libs/ov_yolov8.cpp",
+  "file": "/home/shur/CLionProjects/t3/src/libs/ov_yolov8.cpp",
+  "output": "CMakeFiles/t3.dir/src/libs/ov_yolov8.cpp.o"
+},
+{
+  "directory": "/home/shur/CLionProjects/t3/build",
+  "command": "/usr/bin/g++-12 -I/home/shur/CLionProjects/t3/include -I/usr/include/openvino -I/home/shur/c++_libs/linuxSDK_V2.1.0.37/include -isystem /usr/local/include/opencv4 -g -o CMakeFiles/t3.dir/src/libs/pnp_distance.cpp.o -c /home/shur/CLionProjects/t3/src/libs/pnp_distance.cpp",
+  "file": "/home/shur/CLionProjects/t3/src/libs/pnp_distance.cpp",
+  "output": "CMakeFiles/t3.dir/src/libs/pnp_distance.cpp.o"
+},
+{
+  "directory": "/home/shur/CLionProjects/t3/build",
+  "command": "/usr/bin/g++-12 -I/home/shur/CLionProjects/t3/include -I/usr/include/openvino -I/home/shur/c++_libs/linuxSDK_V2.1.0.37/include -isystem /usr/local/include/opencv4 -g -o CMakeFiles/t3.dir/src/libs/ekf_Kalman.cpp.o -c /home/shur/CLionProjects/t3/src/libs/ekf_Kalman.cpp",
+  "file": "/home/shur/CLionProjects/t3/src/libs/ekf_Kalman.cpp",
+  "output": "CMakeFiles/t3.dir/src/libs/ekf_Kalman.cpp.o"
+},
+{
+  "directory": "/home/shur/CLionProjects/t3/build",
+  "command": "/usr/bin/g++-12 -I/home/shur/CLionProjects/t3/include -I/usr/include/openvino -isystem /usr/local/include/opencv4 -g -std=gnu++17 -o test/CMakeFiles/test_color_recognition.dir/test_colar.cpp.o -c /home/shur/CLionProjects/t3/test/test_colar.cpp",
+  "file": "/home/shur/CLionProjects/t3/test/test_colar.cpp",
+  "output": "test/CMakeFiles/test_color_recognition.dir/test_colar.cpp.o"
+},
+{
+  "directory": "/home/shur/CLionProjects/t3/build",
+  "command": "/usr/bin/g++-12 -I/home/shur/CLionProjects/t3/include -I/usr/include/openvino -isystem /usr/local/include/opencv4 -g -std=gnu++17 -o test/CMakeFiles/test_color_recognition.dir/__/src/libs/color_recognition.cpp.o -c /home/shur/CLionProjects/t3/src/libs/color_recognition.cpp",
+  "file": "/home/shur/CLionProjects/t3/src/libs/color_recognition.cpp",
+  "output": "test/CMakeFiles/test_color_recognition.dir/__/src/libs/color_recognition.cpp.o"
+},
+{
+  "directory": "/home/shur/CLionProjects/t3/build",
+  "command": "/usr/bin/g++-12 -I/home/shur/CLionProjects/t3/include -I/usr/include/openvino -isystem /usr/local/include/opencv4 -g -std=gnu++17 -o test/CMakeFiles/test_neural_network_recognition.dir/test_neural.cpp.o -c /home/shur/CLionProjects/t3/test/test_neural.cpp",
+  "file": "/home/shur/CLionProjects/t3/test/test_neural.cpp",
+  "output": "test/CMakeFiles/test_neural_network_recognition.dir/test_neural.cpp.o"
+},
+{
+  "directory": "/home/shur/CLionProjects/t3/build",
+  "command": "/usr/bin/g++-12 -I/home/shur/CLionProjects/t3/include -I/usr/include/openvino -isystem /usr/local/include/opencv4 -g -std=gnu++17 -o test/CMakeFiles/test_neural_network_recognition.dir/__/src/libs/neural_recogniton.cpp.o -c /home/shur/CLionProjects/t3/src/libs/neural_recogniton.cpp",
+  "file": "/home/shur/CLionProjects/t3/src/libs/neural_recogniton.cpp",
+  "output": "test/CMakeFiles/test_neural_network_recognition.dir/__/src/libs/neural_recogniton.cpp.o"
+},
+{
+  "directory": "/home/shur/CLionProjects/t3/build",
+  "command": "/usr/bin/g++-12 -I/home/shur/CLionProjects/t3/include -I/usr/include/openvino -isystem /usr/local/include/opencv4 -g -std=gnu++17 -o test/CMakeFiles/test_neural_network_recognition.dir/__/src/libs/ov_yolov8.cpp.o -c /home/shur/CLionProjects/t3/src/libs/ov_yolov8.cpp",
+  "file": "/home/shur/CLionProjects/t3/src/libs/ov_yolov8.cpp",
+  "output": "test/CMakeFiles/test_neural_network_recognition.dir/__/src/libs/ov_yolov8.cpp.o"
+},
+{
+  "directory": "/home/shur/CLionProjects/t3/build",
+  "command": "/usr/bin/g++-12 -I/home/shur/CLionProjects/t3/include -I/usr/include/openvino -isystem /usr/local/include/opencv4 -g -std=gnu++17 -o test/CMakeFiles/test_pnp_distance.dir/test_pnp_distance.cpp.o -c /home/shur/CLionProjects/t3/test/test_pnp_distance.cpp",
+  "file": "/home/shur/CLionProjects/t3/test/test_pnp_distance.cpp",
+  "output": "test/CMakeFiles/test_pnp_distance.dir/test_pnp_distance.cpp.o"
+},
+{
+  "directory": "/home/shur/CLionProjects/t3/build",
+  "command": "/usr/bin/g++-12 -I/home/shur/CLionProjects/t3/include -I/usr/include/openvino -isystem /usr/local/include/opencv4 -g -std=gnu++17 -o test/CMakeFiles/test_pnp_distance.dir/__/src/libs/pnp_distance.cpp.o -c /home/shur/CLionProjects/t3/src/libs/pnp_distance.cpp",
+  "file": "/home/shur/CLionProjects/t3/src/libs/pnp_distance.cpp",
+  "output": "test/CMakeFiles/test_pnp_distance.dir/__/src/libs/pnp_distance.cpp.o"
+},
+{
+  "directory": "/home/shur/CLionProjects/t3/build",
+  "command": "/usr/bin/g++-12 -I/home/shur/CLionProjects/t3/include -I/usr/include/openvino -isystem /usr/local/include/opencv4 -g -std=gnu++17 -o test/CMakeFiles/test_pnp_distance.dir/__/src/libs/color_recognition.cpp.o -c /home/shur/CLionProjects/t3/src/libs/color_recognition.cpp",
+  "file": "/home/shur/CLionProjects/t3/src/libs/color_recognition.cpp",
+  "output": "test/CMakeFiles/test_pnp_distance.dir/__/src/libs/color_recognition.cpp.o"
+},
+{
+  "directory": "/home/shur/CLionProjects/t3/build",
+  "command": "/usr/bin/g++-12 -I/home/shur/CLionProjects/t3/include -I/usr/include/openvino -isystem /usr/local/include/opencv4 -g -std=gnu++17 -o test/CMakeFiles/test_pnp_distance.dir/__/src/libs/ekf_Kalman.cpp.o -c /home/shur/CLionProjects/t3/src/libs/ekf_Kalman.cpp",
+  "file": "/home/shur/CLionProjects/t3/src/libs/ekf_Kalman.cpp",
+  "output": "test/CMakeFiles/test_pnp_distance.dir/__/src/libs/ekf_Kalman.cpp.o"
+}
+]

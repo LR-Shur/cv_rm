@@ -1,0 +1,8 @@
+/home/shur/CLionProjects/t3/build/CMakeFiles/t3.dir
+/home/shur/CLionProjects/t3/build/CMakeFiles/edit_cache.dir
+/home/shur/CLionProjects/t3/build/CMakeFiles/rebuild_cache.dir
+/home/shur/CLionProjects/t3/build/test/CMakeFiles/test_color_recognition.dir
+/home/shur/CLionProjects/t3/build/test/CMakeFiles/test_neural_network_recognition.dir
+/home/shur/CLionProjects/t3/build/test/CMakeFiles/test_pnp_distance.dir
+/home/shur/CLionProjects/t3/build/test/CMakeFiles/edit_cache.dir
+/home/shur/CLionProjects/t3/build/test/CMakeFiles/rebuild_cache.dir
